@@ -18,9 +18,6 @@ Flutter App Developer <br>BITS Pilani <br>Published 3 apps on Google Play <br>Se
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=anshull-saxena&icon=0&color=0)](https://visitcount.itsvg.in)
 
