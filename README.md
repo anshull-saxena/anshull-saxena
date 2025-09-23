@@ -7,6 +7,7 @@ Flutter App Developer <br>BITS Pilani <br>Published 3 apps on Google Play <br>Se
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshull-saxena&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshull-saxena&theme=dark&hide_border=false)<br/>
@@ -21,8 +22,7 @@ Flutter App Developer <br>BITS Pilani <br>Published 3 apps on Google Play <br>Se
 ---
 [![](https://visitcount.itsvg.in/api?id=anshull-saxena&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeAChai](https://onlychai.neocities.org/support.html?name=anshul&upi=9717102028%40superyes#) 
+## 💰 You can help me by Donating  
+[![Buy Me a Chai](https://img.shields.io/badge/☕-Buy%20Me%20a%20Chai-orange?style=for-the-badge)](https://onlychai.neocities.org/support.html?name=anshul&upi=9717102028%40superyes)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
