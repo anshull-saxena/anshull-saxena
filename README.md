@@ -106,40 +106,30 @@ Production-ready translation model supporting 10+ language pairs
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-<a href="https://github.com/anshull-saxena">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Anshul's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anshull-saxena&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anshull-saxena&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
 
 ---
 
 ## 💡 Daily Inspiration
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
