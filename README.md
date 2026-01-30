@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
 
-![](https://komarev.com/ghpvc/?username=anshull-saxena&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anshull-saxena)](https://git.io/streak-stats)
 
 </div>
 
