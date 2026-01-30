@@ -16,6 +16,7 @@
 > Dual Degree Student | **M.Sc. Mathematics** + **B.E. Computer Science** | BITS Pilani Hyderabad | Class of 2027
 
 I architect **AI-powered solutions** where mathematical rigor meets engineering excellence. My expertise lies in building **production-grade NLP systems** and designing **scalable ML infrastructure** that solves real-world challenges.
+</div>
 
 ### 🎯 Current Focus
 ```python
@@ -136,9 +137,5 @@ I'm always excited to collaborate on **innovative AI projects**, discuss **ML re
 ---
 
 *"The best way to predict the future is to invent it."* — Alan Kay
-
----
-
-<sub>💻 Crafted with passion | 🚀 Powered by curiosity | 🎯 Driven by impact</sub>
 
 </div>
