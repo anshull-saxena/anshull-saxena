@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=anshull-saxena&icon=10&color=0&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=anshull-saxena&icon=10&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -108,11 +108,16 @@ Production-ready translation model supporting 10+ language pairs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=anshull-saxena&theme=tokyonight&hide_border=true" width="49%" />
+<a href="https://github.com/anshull-saxena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-<img src="https://github-contributor-stats.vercel.app/api?username=anshull-saxena&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anshull-saxena&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,7 +127,7 @@ Production-ready translation model supporting 10+ language pairs
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,7 +137,7 @@ Production-ready translation model supporting 10+ language pairs
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
