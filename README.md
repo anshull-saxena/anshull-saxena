@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
 
-[![](https://visitcount.itsvg.in/api?id=anshull-saxena&icon=10&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=anshull-saxena&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -109,8 +109,8 @@ Production-ready translation model supporting 10+ language pairs
 <div align="center">
 
 <a href="https://github.com/anshull-saxena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Anshul's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 </div>
@@ -127,7 +127,7 @@ Production-ready translation model supporting 10+ language pairs
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
