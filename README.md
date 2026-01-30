@@ -8,8 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshull-saxena&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 ---
 
 ## 👨‍💻 Who Am I?
