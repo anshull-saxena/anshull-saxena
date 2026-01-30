@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+![](https://komarev.com/ghpvc/?username=anshull-saxena)
 ---
 
 ## 👨‍💻 Who Am I?
@@ -103,14 +103,7 @@ Production-ready translation model supporting 10+ language pairs
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshull-saxena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-saxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshull-saxena&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
 
