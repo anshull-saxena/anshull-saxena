@@ -104,14 +104,12 @@ Production-ready translation model supporting 10+ language pairs
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://streak-stats.demolab.com?user=anshull-saxena&theme=default&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=default&hide_border=true" alt="anshull-saxena's GitHub Stats" />
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshull-saxena&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+
 
 ---
 
