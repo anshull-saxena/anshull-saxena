@@ -104,8 +104,7 @@ Production-ready translation model supporting 10+ language pairs
 
 ## 📊 GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
+![GitHub Stats](https://streak-stats.demolab.com?user=anshull-saxena&theme=default&hide_border=true)
 ---
 
 ## 🏆 Achievements
