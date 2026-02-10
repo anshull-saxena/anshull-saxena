@@ -1,132 +1,37 @@
-<div align="center">
+# Anshul Saxena
 
-# 🎯 Anshul Saxena
+BITS Pilani, Hyderabad  
+Dual Degree: M.Sc. Mathematics + B.E. Computer Science (2027)
 
-### *Building Intelligence at the Intersection of Math & Code*
+## Interests
+- Machine Learning and Natural Language Processing
+- Model evaluation and benchmarking
+- Applied statistics and optimization
+- Backend and infrastructure for ML systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulsaxena0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
+## Work
+Most repositories here are:
+- Course projects
+- Research-oriented experiments in ML/NLP
+- Small tools and implementations to understand concepts deeply
 
-![](https://komarev.com/ghpvc/?username=anshull-saxena)
----
+## Projects (high-level)
+- Fake news detection using transformer-based models
+- Multilingual machine translation (Helsinki MarianMT)
+- Automated MT evaluation pipelines (BLEU, chrF, METEOR, COMET)
+- Open-source contributions (Flutter)
 
-## 👨‍💻 Who Am I?
+## Tools
+- Python, C++, Java, JavaScript, SQL
+- PyTorch, TensorFlow, Hugging Face
+- Pandas, NumPy, scikit-learn
+- AWS, GitHub Actions, Docker
+- Git
 
-> Dual Degree Student | **M.Sc. Mathematics** + **B.E. Computer Science** | BITS Pilani Hyderabad | Class of 2027
+## Notes
+I prefer maintaining smaller, well-documented repositories over large monolithic ones.  
+Some projects are experimental and evolve over time.
 
-I architect **AI-powered solutions** where mathematical rigor meets engineering excellence. My expertise lies in building **production-grade NLP systems** and designing **scalable ML infrastructure** that solves real-world challenges.
-</div>
-
-### 🎯 Current Focus
-```python
-class AnshulSaxena:
-    def __init__(self):
-        self.role = "ML Engineer & Software Developer"
-        self.education = {
-            "university": "BITS Pilani Hyderabad",
-            "degrees": ["M.Sc. Mathematics", "B.E. Computer Science"],
-            "graduation": 2027
-        }
-        self.current_learning = [
-            "Advanced Data Structures & Algorithms (C++)",
-            "Cloud-Native Architecture (AWS)",
-            "Deep Learning Optimization Techniques"
-        ]
-        self.expertise = ["NLP", "Machine Learning", "Software Engineering"]
-    
-    def get_mission(self):
-        return "Building scalable AI systems that democratize language understanding"
-```
-
-### 💼 Professional Experience
-
-**Data Analyst Intern** @ **Fortis Healthcare**  
-🔹 Optimized operational costs through advanced data auditing pipelines  
-🔹 Delivered actionable insights that improved manpower allocation efficiency
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 Fake News Detection Engine
-Advanced NLP pipeline leveraging transformer architectures for real-time misinformation detection
-- **Tech**: PyTorch, BERT, scikit-learn
-- **Impact**: 94%+ accuracy on multi-domain datasets
-- **Innovation**: Custom feature engineering + ensemble methods
-
-</td>
-<td width="50%">
-
-### 🌐 Multilingual Translation System
-Production-ready translation model supporting 10+ language pairs
-- **Tech**: TensorFlow, Transformer Architecture
-- **Features**: Bidirectional translation with context preservation
-- **Optimization**: Model quantization for edge deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### AI/ML Ecosystem
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<img src="https://streak-stats.demolab.com/?user=anshull-saxena&theme=default&hide_border=true" alt="anshull-saxena's GitHub Stats" />
-
----
-
-## 💡 Daily Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on **innovative AI projects**, discuss **ML research**, or explore **software engineering challenges**.
-
-<div align="center">
-
-**📧 Reach out**: [f20221041@hyderabad.bits-pilani.ac.in](mailto:f20221041@hyderabad.bits-pilani.ac.in)
-
-**🔗 Connect on**: [LinkedIn](https://linkedin.com/in/anshulsaxena0) • [YouTube](https://youtube.com/@anshull.s)
-
----
-
-*"The best way to predict the future is to invent it."* — Alan Kay
-
-</div>
+## Contact
+- LinkedIn: https://linkedin.com/in/anshulsaxena0
+- Email: f20221041@hyderabad.bits-pilani.ac.in
