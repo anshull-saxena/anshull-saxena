@@ -1,73 +1,67 @@
 <div align="center">
 
-# Anshul Saxena
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=170&section=header&text=Anshul%20Saxena&fontColor=c0caf5&fontSize=44&fontAlignY=36&desc=Math%20%2B%20CS%20%C2%B7%20BITS%20Pilani&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Anshul Saxena" />
 
-BITS Pilani, Hyderabad • M.Sc. Mathematics + B.E. Computer Science (2027)
+<a href="https://anshulls.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=LLM+robustness+%26+calibration;Conformal+prediction+under+temporal+shift;Vector+search+%26+GenAI+retrieval+infra;Building+systems+beyond+the+notebook" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulsaxena0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:f20221041@hyderabad.bits-pilani.ac.in)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@anshull.s)
-
-![](https://komarev.com/ghpvc/?username=anshull-saxena&style=flat)
+<p>
+  <a href="https://anshulls.vercel.app"><img src="https://img.shields.io/badge/portfolio-anshulls.vercel.app-7aa2f7?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1b26" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/anshulsaxena0"><img src="https://img.shields.io/badge/LinkedIn-anshulsaxena0-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
+  <a href="mailto:f20221041@hyderabad.bits-pilani.ac.in"><img src="https://img.shields.io/badge/email-BITS-bb9af7?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" /></a>
+  <a href="https://youtube.com/@anshull.s"><img src="https://img.shields.io/badge/YouTube-@anshull.s-f7768e?style=flat-square&logo=youtube&logoColor=white&labelColor=1a1b26" alt="YouTube" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anshull-saxena&style=flat-square&color=7aa2f7&label=views" alt="Profile views" />
+</p>
 
 </div>
 
----
+```console
+anshul@bits-pilani:~$ whoami
+Dual degree, M.Sc. (Hons.) Mathematics + B.E. Computer Science @ BITS Pilani, Hyderabad (2027)
+SDE Intern @ Myntra: MLP Core, vector search & GenAI infrastructure
 
-## About
-I’m a dual degree student at BITS Pilani, Hyderabad, studying **Mathematics and Computer Science**.  
-My interests are mainly around **machine learning (especially NLP)** and building systems that go beyond notebooks—covering evaluation, tooling, and deployment.
+anshul@bits-pilani:~$ cat interests.txt
+LLM permutation robustness & calibration · conformal prediction · retrieval systems
+```
 
-Most repositories here are coursework, research-oriented projects, or side experiments.
+### 🔬 Research
 
----
+| | Work | Highlights |
+|:-:|---|---|
+| 📄 | **Slaya: Order-Robust Decisions in High-Cardinality Classifiers**<br/><sub>Preprint · <a href="https://doi.org/10.5281/zenodo.22906245"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22906245-7aa2f7?style=flat-square&labelColor=1a1b26" alt="DOI" align="center" /></a> · <a href="https://github.com/anshull-saxena/candidate-order-instability">code</a></sub> | Decision-flip rate **47.3% → 16.1%** on Banking77 (K=77); ECE **0.246 → 0.096** |
+| 📈 | **SIFA: Reliable Neural Forecasting under Temporal Distribution Shift**<br/><sub>Under review, IEEE Intelligent Systems · <a href="https://github.com/anshull-saxena/BITS-PHD">code</a></sub> | **33.6%** lower MAE on NIFTY 50; conformal coverage **0.35 → 0.93** |
 
-## Interests
-- Machine Learning and NLP  
-- Model evaluation and benchmarking  
-- Cloud-based ML workflows  
-- Core CS fundamentals (DSA, OOP, DBMS)
+### 🛠️ Selected Projects
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [**EnaOS**](https://github.com/anshull-saxena/EnaOS) · [site](https://enaos.tech/) | AI-native Linux desktop shell with async multi-agent orchestration on local LLMs | Rust · GTK4 · Wayland · Ollama |
+| [**SheepDog ML**](https://github.com/anshull-saxena/SheepDog_ML) | Adversarially robust fake-news detection (RoBERTa); 92.8% accuracy under attack | PyTorch · Transformers |
+| [**EN–FR–HI NMT**](https://github.com/anshull-saxena/en-fr-hi) | Fine-tuned MarianMT with back-translation; 30.5 BLEU EN→FR | PyTorch · Hugging Face |
+| [**OpenLib**](https://github.com/dstark5/Openlib/pull/126) | Merged PR #126: social book sharing with thumbnail rendering | Flutter · Dart |
 
-## Selected Work
-- Fake news detection using transformer-based models  
-- Multilingual machine translation using Helsinki MarianMT  
-- Automated MT evaluation pipelines (BLEU, chrF, METEOR, COMET)  
-- Open-source contributions (Flutter)
+### ⚙️ Toolbox
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,java,pytorch,docker,kubernetes,aws,azure,linux,git,flutter,nextjs,tailwind&theme=dark&perline=15" alt="Skills" />
+</p>
 
-## 🛠️ Tech Stack
+### 📊 Activity
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshull-saxena&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub streak" />
+</p>
 
-### AI/ML Ecosystem
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshull-saxena/anshull-saxena/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/anshull-saxena/anshull-saxena/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+<sub>Also running a YouTube channel on college reviews and student life · <a href="https://anshulls.vercel.app">try the terminal portfolio →</a></sub>
 
----
-
-## Other
-I also run a YouTube channel focused on **college reviews and student life**, using basic **SEO practices** for discoverability.
-
----
-
-## Contact
-- LinkedIn: https://linkedin.com/in/anshulsaxena0  
-- Email: f20221041@hyderabad.bits-pilani.ac.in
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=90&section=footer" width="100%" alt="" />
+</div>
